@@ -1,0 +1,3 @@
+function (str) {
+	alert("str");
+}
